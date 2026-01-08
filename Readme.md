@@ -10,6 +10,10 @@
     -   프론트 POST 받고 -> JSON 가공 -> (네이버 REQUEST -> RESPONSE) -> 프론트 응답
 
 ## 추가 요구사항
+- 자동 완성 기능
+- 키워드 기반 제공
+- 페이지 로드 시 환영 메시지(window.onload)
+
 
 ## API 명세
 
